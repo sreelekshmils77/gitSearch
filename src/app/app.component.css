@@ -1,0 +1,42 @@
+.main{
+    width: 40%;
+    margin-left: 30%;
+    margin-top:4%;
+}
+.card-header{
+    background-color: #4545bb;
+}
+.form-control{
+    margin-bottom: 3%;
+    border-style:none;
+    border-bottom: ridge ;
+}
+.btn{
+    color: white;
+    background-color: #4545bb;
+} 
+.card-header h4{
+    color:white;
+}
+img{
+    padding-left: 6%;
+    width: 94%;
+    height: 75vh;
+}
+a{
+    color: black;
+}
+.card-footer{
+    padding: 1px;
+    background-color: #4545bb;
+}
+.card-body {
+    position: relative;
+}
+.loader{
+    position: absolute;
+    top: 35%;
+    left: 34%;
+    width: 25%;
+    height: 20%;
+}

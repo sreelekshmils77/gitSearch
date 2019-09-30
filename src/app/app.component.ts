@@ -13,6 +13,7 @@ export class AppComponent {
   dataAvailable: boolean = false;
   newData: boolean = false;
   details;
+  user;
   profile = '';
 
   constructor(private httpClient: HttpClient, private toastr: ToastrService) { }
